@@ -108,6 +108,18 @@ header span:hover {
     border-radius: 15px;
 }
 
+#about {
+    font-size: large;
+}
+
+#experience p {
+    padding-top: 1em;
+}
+
+#experience {
+    font-size: large;
+}
+
 .exp {
     display: inline-block;
     background-color: #53a8b6;
